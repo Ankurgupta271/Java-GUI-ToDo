@@ -13,6 +13,7 @@ A simple and elegant To-Do List application built using **Java Swing**. This des
 ## 🚀 Features
 
 - Add new tasks via input field
+- Used JFrame, JButton, JTextField
 - Delete selected tasks
 - Modern and responsive button styling
 - Built using only built-in Java libraries (Swing)
